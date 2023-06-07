@@ -2,6 +2,7 @@
 Init v1.0.0
 
 ANToast is a useful library for displaying messages with support for Jetpack Compose and Xml.
+
 My personal website. 
 https://alirezanasrollahzadeh.ir
 
@@ -55,3 +56,8 @@ Use:
 
 ``` ANToast.success(context = context).duration(Toast.LENGTH_LONG).message(message).build().show() ```
 
+** Support Rtl **
+
+``` ANToast.success(context = context).isRtl(true).duration(Toast.LENGTH_LONG).message(message).build().show() ```
+
+*Default False*
