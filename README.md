@@ -61,3 +61,5 @@ Use:
 ``` ANToast.success(context = context).isRtl(true).duration(Toast.LENGTH_LONG).message(message).build().show() ```
 
 *Default False*
+
+[![](https://jitpack.io/v/alirezanasrollahzadeh2003/AnCrashLytics.svg)](https://jitpack.io/#alirezanasrollahzadeh2003/ANToast)
