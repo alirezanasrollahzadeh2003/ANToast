@@ -28,6 +28,7 @@
             android:layout_margin="8dp"
             android:padding="8dp"
             android:textSize="16sp"
+            android:textColor="#fff"
             android:fontFamily="@font/yekan"
             android:layout_gravity="center"/>
     </LinearLayout>
